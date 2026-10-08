@@ -1,0 +1,8 @@
+# wesolowski2015
+Citation: Wesolowski, B. C., Wind, S. A., & Engelhard, G. (2015). Rater fairness in music performance assessment: Evaluating model-data fit and differential rater functioning. Musicae Scientiae, 19(2), 147–170.
+URL: https://doi.org/10.1177/1029864915589014
+Retrieved: 2026-10-07 (Grok Bot, manual Part A search)
+
+## Abstract (via OpenAlex API (abstract reconstructed from publisher-supplied inverted index); record URL https://doi.org/10.1177/1029864915589014)
+
+The purpose of this study was to investigate model-data fit and differential rater functioning in the context of large group music performance assessment using the Many-Facet Rasch Partial Credit Measurement Model. In particular, we sought to identify whether or not expert raters’ ( N = 24) severity was invariant across four school levels (middle school, high school, collegiate, professional). Interaction analyses suggested that differential rater functioning existed for both the group of raters and some individual raters based on their expected locations on the logit scale. This indicates that expert raters did not demonstrate invariant levels of severity when rating subgroups of ensembles across the four school levels. Of the 92 potential pairwise interactions examined, 14 (15.2%) interactions were found to be statistically significant, indicating that 10 individual raters demonstrated differential severity across at least one school level. Interpretations of meaningful systematic patterns emerged for some raters after investigating individual pairwise interactions. Implications for improving the fairness and equity in large group music performance evaluations are discussed.

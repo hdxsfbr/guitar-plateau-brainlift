@@ -1,0 +1,8 @@
+# vanlehn2011
+Citation: VanLehn, K. (2011). The relative effectiveness of human tutoring, intelligent tutoring systems, and other tutoring systems. Educational Psychologist, 46(4), 197–221.
+URL: https://public.asu.edu/~kvanlehn/Stringent/PDF/EffectivenessOfTutoring_Vanlehn.pdf (author PDF as fetched: emergingedtech.com mirror); ERIC EJ946764
+Retrieved: 2026-10-07 (Grok Bot, manual Part A search)
+
+## Abstract (via ERIC API record EJ946764; record URL https://eric.ed.gov/?id=EJ946764)
+
+This article is a review of experiments comparing the effectiveness of human tutoring, computer tutoring, and no tutoring. "No tutoring" refers to instruction that teaches the same content without tutoring. The computer tutoring systems were divided by their granularity of the user interface interaction into answer-based, step-based, and substep-based tutoring systems. Most intelligent tutoring systems have step-based or substep-based granularities of interaction, whereas most other tutoring systems (often called CAI, CBT, or CAL systems) have answer-based user interfaces. It is widely believed as the granularity of tutoring decreases, the effectiveness increases. In particular, when compared to No tutoring, the effect sizes of answer-based tutoring systems, intelligent tutoring systems, and adult human tutors are believed to be d = 0.3, 1.0, and 2.0 respectively. This review did not confirm these beliefs. Instead, it found that the effect size of human tutoring was much lower: d = 0.79. Moreover, the effect size of intelligent tutoring systems was 0.76, so they are nearly as effective as human tutoring. (Contains 6 figures, 11 tables and 2 footnotes.)

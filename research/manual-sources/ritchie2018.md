@@ -1,0 +1,8 @@
+# ritchie2018
+Citation: Ritchie, L., & Kearney, P. E. (2018). Adult beginner instrumentalists’ practice, self-regulation, and self-efficacy: A pilot study. Journal of Education and Training Studies, 6(5).
+URL: http://redfame.com/journal/index.php/jets/article/view/2978
+Retrieved: 2026-10-07 (Grok Bot, manual Part A search)
+
+## Abstract (via OpenAlex API (abstract reconstructed from publisher-supplied inverted index); record URL https://doi.org/10.11114/jets.v6i5.2978)
+
+The self-regulation of practice behaviour has repeatedly been shown to distinguish between novice and expert performers, however interventions designed to encourage self-regulation by novice musicians have shown limited effectiveness. Guided by successful research in sporting contexts, the present study investigated the behaviours of beginner (novice) adult musicians’ self-regulated learning, self-efficacy for learning, and practice. Participants undertook a semester of music lessons learning string instruments. Half of the group completed a self-regulation worksheet alongside practicing whereas the others listened to various pieces of music and were not instructed to implement any specific structure to their practice outside the lesson. The results showed that although the intervention was successful in promoting self-regulatory behaviours, the worksheet element had no impact on self-efficacy for learning and was not recognised by participants as directly influencing their learning. Future research should consider the directed use of the worksheet, and other practice aids in interventions and the research designs used to evaluate the effectiveness of such behaviours.
