@@ -1,0 +1,28 @@
+{
+  "run": "pass2-expertise-development",
+  "model": "openai/gpt-5-mini",
+  "breadth": 3,
+  "depth": 2,
+  "mode": "report",
+  "feedback": false,
+  "startedAt": "2026-10-08T02:17:02.437Z",
+  "finishedAt": "2026-10-08T02:19:57.389Z",
+  "counts": {
+    "learnings": 27,
+    "evidence": 27,
+    "quoteVerified": 18,
+    "corrected": 0,
+    "unverified": 9,
+    "visitedUrls": 33
+  },
+  "stats": {
+    "searches": 9,
+    "searchErrors": 0,
+    "pagesReturned": 39,
+    "pagesSkipped": 2,
+    "pagesTruncated": 4,
+    "llmCalls": 14,
+    "promptTokens": 444417,
+    "completionTokens": 38024
+  }
+}

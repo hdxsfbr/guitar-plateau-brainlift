@@ -1,0 +1,28 @@
+{
+  "run": "pass3-adaptive-instruction",
+  "model": "openai/gpt-5-mini",
+  "breadth": 3,
+  "depth": 2,
+  "mode": "report",
+  "feedback": false,
+  "startedAt": "2026-10-08T02:20:00.840Z",
+  "finishedAt": "2026-10-08T02:22:58.239Z",
+  "counts": {
+    "learnings": 24,
+    "evidence": 24,
+    "quoteVerified": 18,
+    "corrected": 0,
+    "unverified": 6,
+    "visitedUrls": 27
+  },
+  "stats": {
+    "searches": 9,
+    "searchErrors": 0,
+    "pagesReturned": 32,
+    "pagesSkipped": 6,
+    "pagesTruncated": 5,
+    "llmCalls": 14,
+    "promptTokens": 319686,
+    "completionTokens": 37018
+  }
+}

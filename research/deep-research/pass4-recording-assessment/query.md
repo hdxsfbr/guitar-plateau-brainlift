@@ -1,0 +1,16 @@
+Research question: How accurately and validly can recordings of guitar (and other instrument) performances be assessed automatically, and does automated or recorded-video feedback improve learners' later independent performance?
+
+Specifically investigate:
+1. Measurement accuracy: automatic music transcription for guitar (polyphonic and monophonic), pitch and onset tracking, tablature transcription, Spotify Basic Pitch, GuitarSet and similar datasets, standard MIR evaluation metrics (note F-measure, onset tolerance), and robustness to distortion, chords, recording quality and backing-track bleed. Report actual accuracy figures and conditions.
+2. Assessment validity: agreement between automatic performance-assessment systems and expert human raters (correlations, inter-rater reliability), automatic assessment of timing/rhythm, intonation, technique and expressiveness, and known failure modes.
+3. Rubrics and reliability for human assessment of improvisation and performance (e.g. collegiate jazz improvisation rubrics, consensual assessment technique), as a benchmark for what automated assessment would need to match.
+4. Learning benefit: evidence that automated feedback, practice apps, or video/audio self-review improve later independent performance, retention or transfer, not just in-app scores or self-evaluation (e.g. Boucher, Creech & Dubé on video feedback for classical guitarists; computer feedback for emotional expression in performance; AI guitar assistant research such as "Ground truths" 2025).
+5. Counterevidence: limitations, dependency on feedback, misleading scores, and studies where technology-based feedback did not help.
+
+Research context (applies to the whole brief):
+- Learners: adult intermediate guitarists who have plateaued. They know basic chords and scales and can improvise over familiar backing tracks, but progress has stalled. They commit roughly 2 hours per day for 2 years (~1,400 hours), which may include listening, reflection and breaks.
+- Goal: advanced musicianship (hearing, technique, rhythm, harmony, expression, repertoire, improvisation, playing with others). Do not assume or promise professional or world-class attainment from an hour count.
+- Purpose: decisions for an AI-supported, adaptive guitar and musicianship tutor.
+- Source preferences: peer-reviewed empirical studies, meta-analyses and systematic reviews first; then expert or practitioner primary sources (books, dissertations, conference papers by researchers or recognized educators). Avoid YouTube videos, SEO blogs, app marketing pages and forums where possible. Favor queries likely to surface journals (e.g. Journal of Research in Music Education, Psychology of Music, Musicae Scientiae, Frontiers in Psychology, Music Education Research, ISMIR proceedings), PubMed Central, ERIC, arXiv, university repositories.
+- Actively seek counterevidence, null results and failed replications, not only supporting findings.
+- For every finding, note population (age, level, instrument, genre), sample size, study design and duration, and whether the result was measured at delayed retention or transfer to unfamiliar material. Flag when evidence comes from other instruments, children, or non-music motor learning and may not generalize to adult guitarists.

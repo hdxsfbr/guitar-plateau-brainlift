@@ -1,0 +1,28 @@
+{
+  "run": "pass4-recording-assessment",
+  "model": "openai/gpt-5-mini",
+  "breadth": 3,
+  "depth": 2,
+  "mode": "report",
+  "feedback": false,
+  "startedAt": "2026-10-08T02:23:01.839Z",
+  "finishedAt": "2026-10-08T02:26:24.739Z",
+  "counts": {
+    "learnings": 25,
+    "evidence": 25,
+    "quoteVerified": 15,
+    "corrected": 0,
+    "unverified": 10,
+    "visitedUrls": 35
+  },
+  "stats": {
+    "searches": 9,
+    "searchErrors": 0,
+    "pagesReturned": 38,
+    "pagesSkipped": 4,
+    "pagesTruncated": 3,
+    "llmCalls": 14,
+    "promptTokens": 356784,
+    "completionTokens": 40936
+  }
+}

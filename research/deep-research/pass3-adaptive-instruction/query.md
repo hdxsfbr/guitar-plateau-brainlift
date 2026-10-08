@@ -1,0 +1,17 @@
+Research question: Should instruction for adult intermediate guitarists follow a fixed curriculum or adapt to the individual learner, and what does the evidence say about the practice and feedback conditions that adaptation would manipulate?
+
+Specifically investigate:
+1. Fixed/standardized curricula versus individualized or adaptive instruction in music and motor learning (including intelligent tutoring systems, adaptive sequencing such as multi-armed bandits in ear training, mastery learning), and effect sizes on delayed retention and transfer.
+2. Diagnosing learner bottlenecks: can a teacher or a system reliably identify a learner's limiting skill? Reliability and validity of diagnostic assessments in music (inter-rater agreement, aptitude/achievement tests), and evidence that diagnosis-driven instruction outperforms a good default curriculum.
+3. Feedback: timing (concurrent vs terminal, immediate vs delayed), amount and frequency (guidance hypothesis, faded feedback), modality, self-controlled/learner-controlled feedback, and how effects depend on expertise level and task complexity, in music performance and motor learning. Include recent meta-analyses and replication concerns (e.g. self-controlled practice benefits).
+4. Self-regulated learning in music practice: planning, monitoring, strategy use and reflection; effects of self-regulation training on practice quality and achievement in adults.
+5. Blocked vs interleaved/random practice (contextual interference) in music specifically: Carter & Grahn and other instrument studies, effects on retention and transfer, and moderators (expertise, task complexity, laboratory vs applied).
+6. Counterevidence: null or negative results for adaptive/individualized instruction, learner control, or reduced feedback.
+
+Research context (applies to the whole brief):
+- Learners: adult intermediate guitarists who have plateaued. They know basic chords and scales and can improvise over familiar backing tracks, but progress has stalled. They commit roughly 2 hours per day for 2 years (~1,400 hours), which may include listening, reflection and breaks.
+- Goal: advanced musicianship (hearing, technique, rhythm, harmony, expression, repertoire, improvisation, playing with others). Do not assume or promise professional or world-class attainment from an hour count.
+- Purpose: decisions for an AI-supported, adaptive guitar and musicianship tutor.
+- Source preferences: peer-reviewed empirical studies, meta-analyses and systematic reviews first; then expert or practitioner primary sources (books, dissertations, conference papers by researchers or recognized educators). Avoid YouTube videos, SEO blogs, app marketing pages and forums where possible. Favor queries likely to surface journals (e.g. Journal of Research in Music Education, Psychology of Music, Musicae Scientiae, Frontiers in Psychology, Music Education Research, ISMIR proceedings), PubMed Central, ERIC, arXiv, university repositories.
+- Actively seek counterevidence, null results and failed replications, not only supporting findings.
+- For every finding, note population (age, level, instrument, genre), sample size, study design and duration, and whether the result was measured at delayed retention or transfer to unfamiliar material. Flag when evidence comes from other instruments, children, or non-music motor learning and may not generalize to adult guitarists.
