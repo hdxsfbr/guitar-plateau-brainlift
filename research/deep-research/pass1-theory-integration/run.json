@@ -1,0 +1,26 @@
+{
+  "run": "pass1-theory-integration",
+  "model": "openai/gpt-5-mini",
+  "breadth": 3,
+  "depth": 2,
+  "mode": "report",
+  "feedback": false,
+  "startedAt": "2026-10-08T01:47:06.843Z",
+  "finishedAt": "2026-10-08T01:53:30.816Z",
+  "counts": {
+    "learnings": 27,
+    "evidence": 27,
+    "quoteVerified": 20,
+    "corrected": 0,
+    "unverified": 7,
+    "visitedUrls": 42
+  },
+  "stats": {
+    "searches": 9,
+    "searchErrors": 0,
+    "pagesReturned": 44,
+    "llmCalls": 14,
+    "promptTokens": 499772,
+    "completionTokens": 43102
+  }
+}
