@@ -2,6 +2,12 @@
 
 Candidate points of view for the BrainLift. They are not final POVs and have not been pressure-tested.
 
+> **Chosen POVs (2026-10-08).** Andre judged the candidates below too tame and chose two sharper POVs, now written up in `research/povs.md`, pressure-tested in `research/pressure-tests.md`, with a pilot in `research/next-test.md`:
+> - **POV A — Hear it before you drill it.** This is new: it is not one of the candidates below, though it draws on candidate 8 (interleaving and discrimination) and the evidence on aural vs theory pedagogy.
+> - **POV B — Feedback after every take, never during.** This sharpens candidates 1 and 2 (the feedback guidance effect and self-controlled feedback) and absorbs candidate 5 (grade only validated dimensions).
+>
+> Candidates 3, 4, 6 and 7 are not being pursued as POVs for now. They stay below for reference.
+
 ## Contested points from the evidence pass (added 2026-10-07 CT)
 
 Each item names the conventional advice it challenges and the evidence on each side (IDs in `research/evidence.csv`). **These are candidates, not POVs.** They have not been pressure-tested or written up yet.

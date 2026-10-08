@@ -1,3 +1,4 @@
+RETR={'bjerstedt2016':'2026-10-08','lahav2007':'2026-10-08','lappe2008':'2026-10-08','guadagnoli2001':'2026-10-08'}
 import sys,json,csv,glob,re,html,os,collections
 sys.path.insert(0,'/workspace/bl2/work'); sys.path.insert(0,'/workspace/bl2/work/build')
 import vq
@@ -30,8 +31,8 @@ for i,ev in enumerate(E,1):
     r={k:ev.get(k,'') for k in ecols}; r['evidence_id']=f'E{i:03d}'; r['quote_verified']=v
     q=ev['_qs']
     prov={'page':f'quote checked against saved page for {q[1]} ({os.path.relpath(rec[q[1]][0],BL)})' if q[0]=='page' else '',
-          'raw':f'quote checked against full text/excerpt retrieved 2026-10-07 (see research/manual-sources/{ev["source_id"]}.md)',
-          'abs':f'quote checked against abstract retrieved 2026-10-07 via {ABS.get(q[1],{}).get("via","")} (saved in research/manual-sources/{ev["source_id"]}.md)',
+          'raw':f'quote checked against full text/excerpt retrieved {RETR.get(ev["source_id"],"2026-10-07")} (see research/manual-sources/{ev["source_id"]}.md)',
+          'abs':f'quote checked against abstract retrieved {RETR.get(ev["source_id"],"2026-10-07")} via {ABS.get(q[1],{}).get("via","")} (saved in research/manual-sources/{ev["source_id"]}.md)',
           'elicit':f'quote checked against Elicit export abstract (sources/elicit-sources.csv row {q[1]})'}[q[0]]
     r['notes']=(r['notes']+' | ' if r['notes'] else '')+prov
     rows.append(r)
@@ -60,7 +61,7 @@ for ev in E:
     if ev['_qs'][0] in ('raw','abs'): by[ev['source_id']].append(ev)
 smap={s['source_id']:s for s in S}
 for k,evs in by.items():
-    s=smap[k]; out=[f'# {k}\n',f'Citation: {s["citation"]}\n',f'URL: {s["url"]}\n','Retrieved: 2026-10-07 (Grok Bot, manual Part A search)\n']
+    s=smap[k]; out=[f'# {k}\n',f'Citation: {s["citation"]}\n',f'URL: {s["url"]}\n',f'Retrieved: {RETR.get(k,"2026-10-07")} (Grok Bot, manual search)\n']
     seen=set()
     for ev in evs:
         t,key=ev['_qs']

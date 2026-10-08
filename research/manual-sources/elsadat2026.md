@@ -1,7 +1,7 @@
 # elsadat2026
 Citation: Elsadat, Y., Schütt, A., Ritschel, H., & André, E. (2026). Adaptive sequencing in interval ear training: A multi-armed bandit approach. Proceedings of CSEDU 2026, Vol. 1, 272–279.
 URL: https://www.scitepress.org/Papers/2026/147268/147268.pdf
-Retrieved: 2026-10-07 (Grok Bot, manual Part A search)
+Retrieved: 2026-10-07 (Grok Bot, manual search)
 
 ## Verbatim excerpts around quoted passages (from the full text / page retrieved above; short excerpts for verification only)
 

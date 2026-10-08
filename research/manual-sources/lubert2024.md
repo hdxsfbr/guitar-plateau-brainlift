@@ -1,7 +1,7 @@
 # lubert2024
 Citation: Lubert, V. J., & Gröpel, P. (2024). Psychological interventions for the self-regulated enhancement of music performance: A systematic review. Musicae Scientiae, 29(2), 279–313.
 URL: https://doi.org/10.1177/10298649241290448
-Retrieved: 2026-10-07 (Grok Bot, manual Part A search)
+Retrieved: 2026-10-07 (Grok Bot, manual search)
 
 ## Abstract (via OpenAlex API (abstract reconstructed from publisher-supplied inverted index); record URL https://doi.org/10.1177/10298649241290448)
 

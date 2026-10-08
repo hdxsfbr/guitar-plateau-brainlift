@@ -1,7 +1,7 @@
 # chiviacowsky2002
 Citation: Chiviacowsky, S., & Wulf, G. (2002). Self-controlled feedback: Does it enhance learning because performers get feedback when they need it? Research Quarterly for Exercise and Sport, 73(4), 408–415.
 URL: https://europepmc.org/article/MED/12495242
-Retrieved: 2026-10-07 (Grok Bot, manual Part A search)
+Retrieved: 2026-10-07 (Grok Bot, manual search)
 
 ## Abstract (via Europe PMC REST API (PubMed abstract); record URL https://europepmc.org/article/MED/12495242)
 

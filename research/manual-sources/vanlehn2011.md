@@ -1,7 +1,7 @@
 # vanlehn2011
 Citation: VanLehn, K. (2011). The relative effectiveness of human tutoring, intelligent tutoring systems, and other tutoring systems. Educational Psychologist, 46(4), 197–221.
 URL: https://public.asu.edu/~kvanlehn/Stringent/PDF/EffectivenessOfTutoring_Vanlehn.pdf (author PDF as fetched: emergingedtech.com mirror); ERIC EJ946764
-Retrieved: 2026-10-07 (Grok Bot, manual Part A search)
+Retrieved: 2026-10-07 (Grok Bot, manual search)
 
 ## Abstract (via ERIC API record EJ946764; record URL https://eric.ed.gov/?id=EJ946764)
 

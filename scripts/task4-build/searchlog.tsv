@@ -26,3 +26,7 @@
 2026-10-07 ~9:49 PM CT	Europe PMC REST	Hohagen Immerz 2024 focus of attention music performance systematic review	kept: Hohagen & Immerz 2024 (abstract + open full text)
 2026-10-07 ~9:49 PM CT	WebSearch	"Insights about practice from the perspective of motor learning: a review" Wulf Mornell Music Performance Research 2008	kept: Wulf & Mornell 2008 (confirms the Elicit row; used as expert advice only)
 2026-10-07 ~9:50–9:59 PM CT	OpenAlex API (works by DOI/title)	Metadata, DOI and author checks for deep-research pass records and Elicit rows (e.g. Samani & Pan 2021, Li & Liu 2025, Wang & Li 2026, Guan et al., Liu et al. 2025, Passalenti 2019, Zhang 2024, Rotter 2020, Bittner 2022)	kept: corrected authors/years in source-register (e.g. the pass record said "Rohrer" for Samani & Pan 2021). No new sources added from this step.
+2026-10-08 ~12:12 AM CT	WebSearch	Brumbach 2022 practice-based vs theory-based jazz pedagogy condition content	The abstract does not describe the condition; E064 "(aural)" label removed. Kept: Bjerstedt 2016
+2026-10-08 ~12:13 AM CT	WebFetch + curl	Bjerstedt 2016 BJME Cambridge HTML full text	Kept: bjerstedt2016 (E093, E094), caution
+2026-10-08 ~12:14 AM CT	OpenAlex API	DOI/metadata for Bjerstedt 2016	Metadata only
+2026-10-08 ~12:17 AM CT	Europe PMC REST	Lahav 2007; Lappe 2008; Guadagnoli & Kohl 2001 (cited by pressure-test model)	Kept all three (E095–E097), abstracts

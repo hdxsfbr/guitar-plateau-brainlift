@@ -1,7 +1,7 @@
 # wieser2024
 Citation: Wieser, M., Novak-Geiger, V., & Müller, F. H. (2024). Who stays? Who goes? Motivation and tendency to drop out in music schools. Frontiers in Psychology, 15, 1378843.
 URL: https://doi.org/10.3389/fpsyg.2024.1378843
-Retrieved: 2026-10-07 (Grok Bot, manual Part A search)
+Retrieved: 2026-10-07 (Grok Bot, manual search)
 
 ## Abstract (via OpenAlex API (abstract reconstructed from publisher-supplied inverted index); record URL https://doi.org/10.3389/fpsyg.2024.1378843)
 

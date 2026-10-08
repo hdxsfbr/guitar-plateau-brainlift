@@ -1,7 +1,7 @@
 # cronbach1977
 Citation: Cronbach, L. J., & Snow, R. E. (1977). Aptitudes and instructional methods: A handbook for research on interactions. Irvington.
 URL: 
-Retrieved: 2026-10-07 (Grok Bot, manual Part A search)
+Retrieved: 2026-10-07 (Grok Bot, manual search)
 
 ## Verbatim excerpts around quoted passages (from the full text / page retrieved above; short excerpts for verification only)
 

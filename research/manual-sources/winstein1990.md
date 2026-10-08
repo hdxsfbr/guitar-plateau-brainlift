@@ -1,7 +1,7 @@
 # winstein1990
 Citation: Winstein, C. J., & Schmidt, R. A. (1990). Reduced frequency of knowledge of results enhances motor skill learning. Journal of Experimental Psychology: Learning, Memory, and Cognition, 16(4), 677–691.
 URL: https://www.bisp-surf.de/Record/PU199111046086
-Retrieved: 2026-10-07 (Grok Bot, manual Part A search)
+Retrieved: 2026-10-07 (Grok Bot, manual search)
 
 ## Verbatim excerpts around quoted passages (from the full text / page retrieved above; short excerpts for verification only)
 

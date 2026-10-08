@@ -1,7 +1,7 @@
 # leahy2021
 Citation: Leahy, K. S., & Smith, T. D. (2021). The self-directed learning of adult music students: A comparison of teacher approaches and student needs. International Journal of Music Education, 39(3), 289–300.
 URL: https://doi.org/10.1177/0255761421991596
-Retrieved: 2026-10-07 (Grok Bot, manual Part A search)
+Retrieved: 2026-10-07 (Grok Bot, manual search)
 
 ## Abstract (via OpenAlex API (abstract reconstructed from publisher-supplied inverted index); record URL https://doi.org/10.1177/0255761421991596)
 

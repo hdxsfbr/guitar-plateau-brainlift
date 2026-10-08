@@ -1,7 +1,7 @@
 # mckay2022sc
 Citation: McKay, B., Yantha, Z. D., Hussien, J., Carter, M. J., & Ste-Marie, D. M. (2022). Meta-analytic findings of the self-controlled motor learning literature: Underpowered, biased, and lacking evidential value. Meta-Psychology, 6.
 URL: https://open.lnu.se/index.php/metapsychology/article/view/2803
-Retrieved: 2026-10-07 (Grok Bot, manual Part A search)
+Retrieved: 2026-10-07 (Grok Bot, manual search)
 
 ## Abstract (via OpenAlex API (abstract reconstructed from publisher-supplied inverted index); record URL https://doi.org/10.15626/MP.2021.2803)
 

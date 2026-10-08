@@ -1,7 +1,7 @@
 # moura2024
 Citation: Moura, N., Dias, P., Veríssimo, L., Oliveira-Silva, P., & Serra, S. (2024). Solo music performance assessment criteria: A systematic review. Frontiers in Psychology, 15, 1467434.
 URL: https://europepmc.org/articles/PMC11496144
-Retrieved: 2026-10-07 (Grok Bot, manual Part A search)
+Retrieved: 2026-10-07 (Grok Bot, manual search)
 
 ## Abstract (via Europe PMC REST API (PubMed abstract); record URL https://europepmc.org/article/MED/39444835)
 

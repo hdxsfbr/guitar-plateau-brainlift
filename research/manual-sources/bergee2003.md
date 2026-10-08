@@ -1,7 +1,7 @@
 # bergee2003
 Citation: Bergee, M. J. (2003). Faculty interjudge reliability of music performance evaluation. Journal of Research in Music Education, 51(2), 137–150.
 URL: https://doi.org/10.2307/3345847
-Retrieved: 2026-10-07 (Grok Bot, manual Part A search)
+Retrieved: 2026-10-07 (Grok Bot, manual search)
 
 ## Abstract (via OpenAlex API (abstract reconstructed from publisher-supplied inverted index); record URL https://doi.org/10.2307/3345847)
 

@@ -1,7 +1,7 @@
 # hohagen2024
 Citation: Hohagen, J., & Immerz, A. (2024). Focus of attention in musical learning and music performance: A systematic review and discussion of focus instructions and outcome measures. Frontiers in Psychology, 15, 1290596.
 URL: https://europepmc.org/articles/PMC11033434
-Retrieved: 2026-10-07 (Grok Bot, manual Part A search)
+Retrieved: 2026-10-07 (Grok Bot, manual search)
 
 ## Abstract (via Europe PMC REST API (PubMed abstract); record URL https://europepmc.org/article/MED/38650905)
 

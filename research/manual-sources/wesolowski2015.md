@@ -1,7 +1,7 @@
 # wesolowski2015
 Citation: Wesolowski, B. C., Wind, S. A., & Engelhard, G. (2015). Rater fairness in music performance assessment: Evaluating model-data fit and differential rater functioning. Musicae Scientiae, 19(2), 147–170.
 URL: https://doi.org/10.1177/1029864915589014
-Retrieved: 2026-10-07 (Grok Bot, manual Part A search)
+Retrieved: 2026-10-07 (Grok Bot, manual search)
 
 ## Abstract (via OpenAlex API (abstract reconstructed from publisher-supplied inverted index); record URL https://doi.org/10.1177/1029864915589014)
 

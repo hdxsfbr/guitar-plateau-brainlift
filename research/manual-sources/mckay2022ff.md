@@ -1,7 +1,7 @@
 # mckay2022ff
 Citation: McKay, B., Hussien, J., Vinh, M., Mir-Orefice, A., Brooks, H., & Ste-Marie, D. M. (2022). Meta-analysis of the reduced relative feedback frequency effect on motor learning and performance. Psychology of Sport and Exercise, 61, 102165. (Preprint: PsyArXiv 10.31234/osf.io/v2cp7.)
 URL: https://doi.org/10.31234/osf.io/v2cp7
-Retrieved: 2026-10-07 (Grok Bot, manual Part A search)
+Retrieved: 2026-10-07 (Grok Bot, manual search)
 
 ## Abstract (via Europe PMC REST API (PubMed abstract); record URL https://doi.org/10.31234/osf.io/v2cp7)
 

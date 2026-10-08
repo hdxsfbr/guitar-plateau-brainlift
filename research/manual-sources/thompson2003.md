@@ -1,7 +1,7 @@
 # thompson2003
 Citation: Thompson, S., & Williamon, A. (2003). Evaluating evaluation: Musical performance assessment as a research tool. Music Perception, 21(1), 21–41.
 URL: https://researchonline.rcm.ac.uk/id/eprint/2170/
-Retrieved: 2026-10-07 (Grok Bot, manual Part A search)
+Retrieved: 2026-10-07 (Grok Bot, manual search)
 
 ## Abstract (via OpenAlex API (abstract reconstructed from publisher-supplied inverted index); record URL https://doi.org/10.1525/mp.2003.21.1.21)
 

@@ -1,7 +1,7 @@
 # kulikfletcher2016
 Citation: Kulik, J. A., & Fletcher, J. D. (2016). Effectiveness of intelligent tutoring systems: A meta-analytic review. Review of Educational Research, 86(1), 42–78.
 URL: https://eric.ed.gov/?id=EJ1090502
-Retrieved: 2026-10-07 (Grok Bot, manual Part A search)
+Retrieved: 2026-10-07 (Grok Bot, manual search)
 
 ## Abstract (via ERIC API record EJ1090502; record URL https://eric.ed.gov/?id=EJ1090502)
 

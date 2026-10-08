@@ -1,7 +1,7 @@
 # wulfshea2002
 Citation: Wulf, G., & Shea, C. H. (2002). Principles derived from the study of simple skills do not generalize to complex skill learning. Psychonomic Bulletin & Review, 9(2), 185–211.
 URL: https://europepmc.org/article/MED/12120783
-Retrieved: 2026-10-07 (Grok Bot, manual Part A search)
+Retrieved: 2026-10-07 (Grok Bot, manual search)
 
 ## Abstract (via Europe PMC REST API (PubMed abstract); record URL https://europepmc.org/article/MED/12120783)
 

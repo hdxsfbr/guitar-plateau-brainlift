@@ -1,7 +1,7 @@
 # sigrist2013
 Citation: Sigrist, R., Rauter, G., Riener, R., & Wolf, P. (2013). Augmented visual, auditory, haptic, and multimodal feedback in motor learning: A review. Psychonomic Bulletin & Review, 20(1), 21–53.
 URL: https://europepmc.org/article/MED/23132605
-Retrieved: 2026-10-07 (Grok Bot, manual Part A search)
+Retrieved: 2026-10-07 (Grok Bot, manual search)
 
 ## Abstract (via Europe PMC REST API (PubMed abstract); record URL https://europepmc.org/article/MED/23132605)
 

@@ -1,7 +1,7 @@
 # krause2019
 Citation: Krause, A. E., Kirby, M. L., Dieckmann, S. S., & Davidson, J. W. (2019). From dropping out to dropping in: Exploring why individuals cease participation in musical activities and the support needed to reengage them. Psychology of Aesthetics, Creativity, and the Arts, 14(4), 401–414.
 URL: https://researchonline.jcu.edu.au/62727/15/JCU_Krause%2CKirby%2CDieckmann%26Davidson2019_reengage_PrePrint.pdf
-Retrieved: 2026-10-07 (Grok Bot, manual Part A search)
+Retrieved: 2026-10-07 (Grok Bot, manual search)
 
 ## Abstract (via OpenAlex API (abstract reconstructed from publisher-supplied inverted index); record URL https://doi.org/10.1037/aca0000268)
 

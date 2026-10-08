@@ -158,3 +158,18 @@ Where an original could be read, short verbatim quotes were captured with page o
 | pass4#16 | not verified | Shortened to an exact span → yes |
 | pass4#23, pass4#24 | not verified | Not used (no evidence row) |
 | pass1#24, pass2#14, pass2#19/20, pass3#02/03/17, pass3#10, pass3#21, pass4#08, pass4#11, pass4#13, pass4#17 | not verified | Belong to excluded sources (YouTube, marketing, off-topic, stubs). Not used. |
+
+## POV evidence checks (Task 5, 2026-10-08)
+
+These were run by Grok Bot while writing `research/povs.md`. Times are CT.
+
+| When (CT) | Tool | Query / target | Kept / excluded |
+|---|---|---|---|
+| 2026-10-08 ~12:12 AM | WebSearch | Brumbach 2022 "practice-based" "theory-based" jazz pedagogy: what the practice-based condition was | The abstract does not describe the condition. E064's "(aural)" label was removed and noted. Kept: Bjerstedt 2016 (found in the results) |
+| 2026-10-08 ~12:13 AM | WebFetch + curl | Bjerstedt 2016, *Stealing knowledge in a landscape of learning* (BJME 33(3)), Cambridge HTML full text | Kept: `bjerstedt2016` (E093, E094) as documentation of the theory-first / chord–scale consensus. Caution: conceptual article |
+| 2026-10-08 ~12:14 AM | OpenAlex API | DOI and metadata for Bjerstedt 2016 (10.1017/S0265051716000103) | Metadata only |
+| 2026-10-08 ~12:17 AM | Europe PMC REST | Verified three studies cited by the pressure-test model: Lahav et al. 2007; Lappe et al. 2008; Guadagnoli & Kohl 2001 | Kept all three (E095–E097), based on their abstracts |
+
+**Corrections made in the same pass**
+- **E024 (Wulf et al. 1998).** Earlier wording said 100% feedback beat 50%. The abstract reports that 100% beat *no feedback*, with 50% intermediate. The feedback was concurrent.
+- **E064 (Brumbach 2022).** Removed "(aural)". The improvisation comparison rests on 13 vs 21 soloists.

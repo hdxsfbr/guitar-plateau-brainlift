@@ -1,11 +1,11 @@
 # Knowledge tree — adaptive musicianship tutor for plateaued adult intermediate guitarists
 
-Built 2026-10-07 (CT) from `research/evidence.csv` (92 claim rows, E001–E092) and `research/source-register.csv` (136 sources). Every finding cites evidence IDs; the quote, location and verification status for each ID are in `evidence.csv`.
+Built 2026-10-07 (CT) from `research/evidence.csv` (97 claim rows, E001–E097; E093–E097 and corrections to E024/E064 added 2026-10-08) and `research/source-register.csv` (140 sources). Every finding cites evidence IDs; the quote, location and verification status for each ID are in `evidence.csv`.
 
 **How to read this**
 - **Finding** = empirical result reported by a source. **Theory** = a framework or mechanism claim. **Expert advice** = a recommendation. **Inference** = my reasoning from the findings (marked *Inference*). **Product hypothesis** = a testable bet for the tutor (marked *Product hypothesis*). Product hypotheses are not evidence.
 - Relevance tags come from `relevance_to_learner_group`: **direct** = adult and/or guitar and intermediate-level evidence; **adjacent** = music but a different population, instrument or level; **extrapolated** = non-music tasks, beginners in lab tasks, children, or very short interventions.
-- **Bottom line on directness.** Only 12 of 92 rows are direct. No controlled study tests adaptive versus fixed instruction for adult intermediate guitarists over months. Most of the decision rests on adjacent and extrapolated evidence.
+- **Bottom line on directness.** Only 12 of 97 rows are direct. No controlled study tests adaptive versus fixed instruction for adult intermediate guitarists over months. Most of the decision rests on adjacent and extrapolated evidence.
 
 ---
 
@@ -36,6 +36,7 @@ Built 2026-10-07 (CT) from `research/evidence.csv` (92 claim rows, E001–E092) 
 - **Conventional pedagogy advice from motor learning** is to give feedback sparingly, vary task order, use an external focus and let learners control practice (`E030`, expert advice, Wulf & Mornell 2008). Section 3 shows that several of these rules have since weakened.
 - **Expert jazz guitarists** describe their skill in terms of chunks, schemas and templates that depend on context (`E071`, qualitative). Elite vs semi-elite improvisers differed in the *quality* of individual practice and in jam/network activity (`E070`, retrospective).
 - **Adults want adjustable directiveness.** Adult instrumentalists welcomed more teacher direction when stuck technically or in an unfamiliar style, and advanced adults self-directed more (`E040`, *direct*, n=6).
+- **The theory-first default.** A jazz-education scholar describes formal jazz education's main tendency as theory-based, chord–scale pedagogy. Interviewed professionals attribute this partly to it being easy to teach and measure (`E093`, `E094`; expert opinion, added 2026-10-08).
 - **Pedagogy content debates** (tonic-based solmization `E072`; Kodály modality order `E073`; chord-scale vs transcription `E076`) are argued from theory or teacher perception, not outcome data.
 - **Research landscape.** Music-practice research is mostly quantitative and centred on deliberate practice, strategies and SRL (`E078`). It is overwhelmingly about students rather than adult amateurs.
 
@@ -48,12 +49,14 @@ Built 2026-10-07 (CT) from `research/evidence.csv` (92 claim rows, E001–E092) 
 - **Music evidence is mixed and small-n.**
   - Interleaving helped in some studies: advanced clarinetists, when raters differed (`E057`, n=10); interval novices without aids (`E012`, n=44); and variable leap practice in pianists (`E059`).
   - It made no difference in others: proficient pianists (`E058`, n=21), university musicians on a sticking task at retention (`E060`, n=120), and interval learners who had reference songs and singing (Exp 1 of `E012`).
+- **Playing builds hearing (neural evidence, extrapolated).** In non-musicians, learning to play a piece made listening to it engage motor areas (`E095`). Two weeks of play-plus-listen training enhanced auditory-cortex responses more than listening alone (`E096`). Hearing and playing co-develop. Added 2026-10-08.
 - **Learners misjudge schedules.** 75% judged blocking as good as or better than interleaving, even though 73% did as well or better with interleaving (`E013`).
 - **Where results differ.** Benefits appear for discrimination-heavy tasks (intervals, similar categories) and novices, and wash out for proficient players or when other supports exist. Plateaued intermediates sit between these groups, so this is unresolved.
 
 ### 3b. Feedback amount, timing and control
 - **The classic guidance hypothesis.** Faded or reduced knowledge-of-results improved delayed retention in a simple lab task (`E023`, Winstein & Schmidt 1990).
-- **Counter-evidence 1: complexity.** For a complex ski-simulator skill, 100% concurrent feedback beat 50% (`E024`). Principles from simple tasks do not generalise to complex skills (`E025`), and the augmented-feedback literature is dominated by simple or artificial tasks (`E029`).
+- **Counter-evidence 1: complexity.** For a complex ski-simulator skill, 100% concurrent feedback beat no feedback at retention, with 50% intermediate, so reduced feedback showed no advantage (`E024`; corrected 2026-10-08 from "beat 50%"). Principles from simple tasks do not generalise to complex skills (`E025`), and the augmented-feedback literature is dominated by simple or artificial tasks (`E029`).
+- **Moderator: self-estimation.** With 100% feedback, learners who estimated their own error first retained best, and those who did not retained worst (`E097`, simple lab task). Added 2026-10-08.
 - **Counter-evidence 2: replication.**
   - A meta-analysis of reduced-feedback-frequency studies (k = 75, N = 2,228) found no significant effect at any time point and no performance–learning reversal; the literature is severely underpowered (`E026`).
   - Self-controlled practice: a naive g = .44 drops to g = .107 after bias correction, which is "not currently distinguishable from zero" (`E028`). The early positive study is `E027`.
@@ -85,7 +88,7 @@ Built 2026-10-07 (CT) from `research/evidence.csv` (92 claim rows, E001–E092) 
   - It needed several hundred mastered items to confirm mastery (`E008`).
   - An "adaptive" music-instruction system reported only self-defined metrics (`E092`).
   - Augmented-piano prototypes have not shown learning benefits (`E034`).
-- **Content and approach alternatives.** Aural or practice-based approaches beat theory-first or notation approaches in short or small studies of improvisers (`E064` high school, 4 weeks; `E066` n = 20). Task *order* made no difference over 12 weeks (`E065`). Weaker or qualitative evidence:
+- **Content and approach alternatives.** A practice-based approach beat a theory-based one (`E064`; improvisation outcome from 13 vs 21 soloists), and aural exercises beat notated ones (`E066`), in short or small studies of school or student improvisers. Task *order* made no difference over 12 weeks (`E065`). Weaker or qualitative evidence:
   - A randomized test of Gordon learning-sequence instruction found only an interaction effect (`E074`).
   - A-cappella ear training was evaluated by its own author (`E075`).
   - In 9 children, improvisation and repertoire produced equal transfer of a technique (`E080`).
@@ -232,3 +235,8 @@ Built 2026-10-07 (CT) from `research/evidence.csv` (92 claim rows, E001–E092) 
 | E090 | feasibility | adjacent | expert advice | [sciltp2026](https://media.sciltp.com/articles/2602003085/2602003085.pdf) | yes |
 | E091 | feasibility | extrapolated | empirical finding | [passalenti2019](https://air.uniud.it/handle/11390/1165358) | yes |
 | E092 | alternatives | extrapolated | empirical finding | [aismfc2025](https://link.springer.com/article/10.1186/s13636-025-00391-9) | yes |
+| E093 | current-practice | adjacent | expert advice | [bjerstedt2016](https://www.cambridge.org/core/journals/british-journal-of-music-education/article/stealing-knowledge-in-a-landscape-of-learning-conceptualizations-of-jazz-education/77013C652DEC5588A5AB3AF990E0BAE8) | yes |
+| E094 | current-practice | adjacent | expert advice | [bjerstedt2016](https://www.cambridge.org/core/journals/british-journal-of-music-education/article/stealing-knowledge-in-a-landscape-of-learning-conceptualizations-of-jazz-education/77013C652DEC5588A5AB3AF990E0BAE8) | yes |
+| E095 | learning-evidence | extrapolated | empirical finding | [lahav2007](https://doi.org/10.1523/jneurosci.4822-06.2007) | yes |
+| E096 | learning-evidence | extrapolated | empirical finding | [lappe2008](https://doi.org/10.1523/jneurosci.2254-08.2008) | yes |
+| E097 | learning-evidence | extrapolated | empirical finding | [guadagnoli2001](https://doi.org/10.1080/00222890109603152) | yes |

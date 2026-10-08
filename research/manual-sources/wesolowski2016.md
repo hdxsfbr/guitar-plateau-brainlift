@@ -1,7 +1,7 @@
 # wesolowski2016
 Citation: Wesolowski, B. C., Wind, S. A., & Engelhard, G. (2016). Examining rater precision in music performance assessment: An analysis of rating scale structure using the multifaceted Rasch partial credit model. Music Perception, 33(5), 662–678.
 URL: https://doi.org/10.1525/mp.2016.33.5.662
-Retrieved: 2026-10-07 (Grok Bot, manual Part A search)
+Retrieved: 2026-10-07 (Grok Bot, manual search)
 
 ## Abstract (via OpenAlex API (abstract reconstructed from publisher-supplied inverted index); record URL https://doi.org/10.1525/mp.2016.33.5.662)
 

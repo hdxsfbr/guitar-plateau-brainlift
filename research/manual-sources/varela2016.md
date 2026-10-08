@@ -1,7 +1,7 @@
 # varela2016
 Citation: Varela, W., Abrami, P. C., & Upitis, R. (2016; online 2014). Self-regulation and music learning: A systematic review. Psychology of Music, 44(1), 55–74.
 URL: https://doi.org/10.1177/0305735614554639
-Retrieved: 2026-10-07 (Grok Bot, manual Part A search)
+Retrieved: 2026-10-07 (Grok Bot, manual search)
 
 ## Abstract (via OpenAlex API (abstract reconstructed from publisher-supplied inverted index); record URL https://doi.org/10.1177/0305735614554639)
 

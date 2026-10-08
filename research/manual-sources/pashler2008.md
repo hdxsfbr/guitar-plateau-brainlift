@@ -1,7 +1,7 @@
 # pashler2008
 Citation: Pashler, H., McDaniel, M., Rohrer, D., & Bjork, R. (2008). Learning styles: Concepts and evidence. Psychological Science in the Public Interest, 9(3), 105–119.
 URL: https://doi.org/10.1111/j.1539-6053.2009.01038.x
-Retrieved: 2026-10-07 (Grok Bot, manual Part A search)
+Retrieved: 2026-10-07 (Grok Bot, manual search)
 
 ## Verbatim excerpts around quoted passages (from the full text / page retrieved above; short excerpts for verification only)
 

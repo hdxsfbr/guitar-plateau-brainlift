@@ -1,0 +1,10 @@
+# bjerstedt2016
+Citation: Bjerstedt, S. (2016). Stealing knowledge in a landscape of learning: Conceptualizations of jazz education. British Journal of Music Education, 33(3), 297–308.
+URL: https://www.cambridge.org/core/journals/british-journal-of-music-education/article/stealing-knowledge-in-a-landscape-of-learning-conceptualizations-of-jazz-education/77013C652DEC5588A5AB3AF990E0BAE8
+Retrieved: 2026-10-08 (Grok Bot, manual search)
+
+## Verbatim excerpts around quoted passages (from the full text / page retrieved above; short excerpts for verification only)
+
+- [Section "Learning Jazz"] … practice-based. The viewpoint that theory gives rise to improvisational practice does not exclude the opposite perspective, that practice determines what will be regarded as theory. In Prouty's view, 'both of these viewpoints are valuable' (p. 63). Notwithstanding, one main tendency in jazz education has been directed towards theory-based pedagogies. Monson (Reference MONSON, Cooke and Horn2002) sums up an important development regarding educational content: Since the 1960s, jazz pedagogy has been dominated by the chord-scale approach to jazz harmony. Improvisers learn to associate scales with …
+
+- [Section "Landscape of Learning"] …hermore, several interview statements emphasize learners' demand perspective, pointing to the importance of learning as a driving force for musical development, and to the need for musical interplay as a means of artistic maieutics or automaieutics. Several informants agree that jazz education is probably marked by what is easy to teach. They believe that the chord/scale formulaic methods are likely to remain a popular approach in jazz pedagogy for several reasons: it is comparatively easy to verbalize and communicate, it is measurable to some degree, and it has come to be perceived as a stepping stone in improvisational instruction. Trumpeter Ann-Sofi Söderqvist contends that this focus leads to schematization and simplification. Saxophonist Roland Keijser thinks it may lead to an overly strong emphasis on theory, whereas sound may be neglected. Pianist/trombonist Ulf Johansso…

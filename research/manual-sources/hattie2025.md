@@ -1,7 +1,7 @@
 # hattie2025
 Citation: Hattie, J., & O’Leary, T. (2025). Learning styles, preferences, or strategies? An explanation for the resurgence of styles across many meta-analyses. Educational Psychology Review, 37.
 URL: https://link.springer.com/article/10.1007/s10648-025-10002-w
-Retrieved: 2026-10-07 (Grok Bot, manual Part A search)
+Retrieved: 2026-10-07 (Grok Bot, manual search)
 
 ## Verbatim excerpts around quoted passages (from the full text / page retrieved above; short excerpts for verification only)
 

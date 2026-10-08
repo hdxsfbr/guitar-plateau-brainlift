@@ -1,7 +1,7 @@
 # ritchie2018
 Citation: Ritchie, L., & Kearney, P. E. (2018). Adult beginner instrumentalists’ practice, self-regulation, and self-efficacy: A pilot study. Journal of Education and Training Studies, 6(5).
 URL: http://redfame.com/journal/index.php/jets/article/view/2978
-Retrieved: 2026-10-07 (Grok Bot, manual Part A search)
+Retrieved: 2026-10-07 (Grok Bot, manual search)
 
 ## Abstract (via OpenAlex API (abstract reconstructed from publisher-supplied inverted index); record URL https://doi.org/10.11114/jets.v6i5.2978)
 

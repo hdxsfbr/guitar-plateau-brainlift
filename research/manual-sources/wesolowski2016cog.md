@@ -1,7 +1,7 @@
 # wesolowski2016cog
 Citation: Wesolowski, B. C. (2016). Exploring rater cognition: A typology of raters in the context of music performance assessment. Psychology of Music, 45(3), 375–399.
 URL: https://doi.org/10.1177/0305735616665004
-Retrieved: 2026-10-07 (Grok Bot, manual Part A search)
+Retrieved: 2026-10-07 (Grok Bot, manual search)
 
 ## Abstract (via OpenAlex API (abstract reconstructed from publisher-supplied inverted index); record URL https://doi.org/10.1177/0305735616665004)
 

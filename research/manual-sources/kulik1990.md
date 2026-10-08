@@ -1,7 +1,7 @@
 # kulik1990
 Citation: Kulik, C.-L. C., Kulik, J. A., & Bangert-Drowns, R. L. (1990). Effectiveness of mastery learning programs: A meta-analysis. Review of Educational Research, 60(2), 265–299.
 URL: https://www.uky.edu/~gmswan3/575/kulik_kulik_Bangert-Drowns_1990.pdf
-Retrieved: 2026-10-07 (Grok Bot, manual Part A search)
+Retrieved: 2026-10-07 (Grok Bot, manual search)
 
 ## Abstract (via OpenAlex API (abstract reconstructed from publisher-supplied inverted index); record URL https://doi.org/10.3102/00346543060002265)
 
