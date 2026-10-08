@@ -1,0 +1,75 @@
+# Practice approaches for adult guitar improvisation plateaus
+
+The evidence does **not** establish one best practice recipe for intermediate adult guitarists who can improvise over familiar tracks but produce repetitive phrases. In the located studies, direct tests of that exact population/outcome combination were scarce; the available controlled evidence mostly addressed technique, written repertoire, or guitarists’ self-evaluation rather than delayed improvisation on unfamiliar material. [^1][^2][^3][^4] A reasonable AI-tutor design hypothesis is to combine phrase-level musical work with listening/singing/playing, variable musical contexts, and structured self-review, while retaining targeted technical work when an execution bottleneck is observed. This is not a proven package: its transfer to unfamiliar harmony, groove, tempo, or keys remains untested.
+
+## Evidence table
+
+The source-linked study-by-study table is delivered separately as **Evidence table: practice approaches and transfer in music**. It includes participant details, interventions, comparators, outcomes, retention/transfer, access level, and limitations. Several records are abstract-only; the full-text guitar self-evaluation and clarinet practice-schedule study were available for closer inspection.
+
+## Findings supported by converging evidence
+
+**1. Treat a plateau as potentially multi-causal; don't diagnose “more scales” by default.** Improvisation combines internal hearing of patterns with fluent execution, while practice research treats planning, monitoring, and strategy adaptation as distinct learnable components. The 2025 systematic review/meta-analysis of 31 music-learning studies (seven meta-analyzed) reports a positive medium overall effect for metacognition/self-regulated-learning interventions, but calls for task-aligned outcomes and more evidence from informal and professional learners; it does not establish improved guitar improvisation or long-term transfer. [^5][^6] A systematic review of music-practice research likewise maps a broad field—296 included publications from 3,102 records—rather than a settled, improvisation-specific intervention literature. [^1]
+
+**2. Phrase learning and variation are plausible targets, but superiority to scale work is not established.** The retrieved literature did not provide a strong controlled adult-guitar comparison of scale/technical drills against learning, singing, imitating, and varying phrases. A qualitative tertiary jazz study describes three semesters of group singing/harmony work and reports students recognized theory in practice and performance, but has no control group or quantified delayed-transfer outcome. [^7] An adult amateur wind-instrument study is relevant by learner age and ear-playing orientation, but its accessible abstract does not provide the sample, intervention, or outcome results needed to claim efficacy. [^8] Accordingly, melodic phrase work should be treated as a testable design choice, not as an evidence-settled replacement for technical study.
+
+**3. Interleave/variation may help some music outcomes, but the effect is task- and outcome-dependent.** In a 30-minute pianist study, variable practice of four left-hand leap distances improved next-day execution time, whereas fixed practice did not; immediate distance-error change was not significant in either group, and the indexed abstract does not report the novel-interval transfer result. [^2] In ten advanced clarinetists, interleaved practice of excerpts was rated better whenever raters detected a condition difference, including a performance one day later, but the outcome varied across raters and there was no unfamiliar-piece transfer test. [^3] By contrast, a study of 120 university musicians learning percussion sticking found more acquisition errors with varied practice but equivalent later retention and transfer accuracy for blocked and varied groups. [^9] The practical implication is not “always randomize”: use enough blocked repetition to stabilize a new fingering or phrase, then vary the musical context and test retention separately.
+
+**4. Learner-controlled or delayed feedback should be designed to build self-correction, not maximize feedback frequency.** In a randomized study of 16 college classical guitarists, repeated video review changed the kinds of self-evaluative comments made during practice, including more strategy-oriented comments; it did not measure better performance, delayed retention, or improvisational transfer. [^4] More generally, the systematic review/meta-analysis of music self-regulation interventions supports structured planning, strategy teaching, and technology-enabled third-person feedback as promising mechanisms, but it does not isolate feedback timing/frequency or test adult guitar improvisation. [^6] Thus, an AI tutor should give actionable feedback when requested or at planned checkpoints, while requiring the learner to make an attempt, state an intention, and self-assess before revealing a correction. This is a design hypothesis rather than a direct inference from a guitar-improvisation trial.
+
+## Genuine disagreements and mixed results
+
+The clearest mixed result concerns blocked versus variable practice. The pianist leap study and clarinet excerpt study favor variability on selected delayed measures, whereas the percussion-sticking study found equivalent retention and transfer and worse acquisition under variation. These are not clean replications: tasks ranged from isolated finger/hand movements to excerpt performance and percussion pattern execution, participant expertise differed, and outcomes differed. They do not establish a universal schedule effect for improvisation. [^2][^3][^9]
+
+The strongest apparent support for integrating singing/aural work with theory and improvisation is qualitative rather than controlled; in contrast, the adult amateur wind-instrument study's accessible abstract does not report usable outcome data. These are differences in evidential design and reporting, not evidence that isolated ear training is ineffective. No reliable head-to-head comparison of isolated ear drills versus integrated listen–sing–play practice in plateaued adult guitarists was located. [^7][^8]
+
+## Important unanswered questions
+
+- In adult intermediate guitarists, does phrase imitation plus constrained variation outperform scale-pattern practice on blind-rated phrase variety, intentionality, and harmonic fit? The located improvisation studies do not provide this controlled contrast. [^7][^10]
+- Does listen–sing–play practice outperform isolated interval/chord identification, and do gains persist when the learner changes key, progression, tempo, groove, or backing track? The jazz singing study was qualitative and did not test delayed transfer. [^7]
+- Which interleaving unit matters: switching phrases, harmonic functions, keys, grooves, or full backing tracks? Do benefits survive a delayed test and a truly unfamiliar progression? Music studies report task-dependent outcomes, and direct improvisation transfer is not measured in these comparisons. [^2][^3][^9]
+- Does learner-controlled or faded AI feedback improve independent diagnosis and transfer more than frequent correction, and which learners benefit from each schedule? The guitar feedback study assessed self-evaluation behaviors, not transfer performance. [^4]
+- Which bottleneck is causal for an individual: fretboard access/technique, audiation, rhythmic timing, harmonic prediction, phrase vocabulary, or self-monitoring? The available studies do not validate a diagnostic algorithm for this population. [^5][^4]
+- What practice dose, adherence, and evaluation period are required for durable changes? The relevant available studies are mostly short or measure proximal practice behavior rather than months-later improvisation. [^2][^3][^4]
+
+## Two provisional challenges to common advice
+
+### Challenge 1: “More scale work is the default way through an improvisation plateau.”
+
+**Provisional alternative:** Reserve targeted technique practice for demonstrable execution constraints, but allocate a substantial share of a 30-minute session to learning a short phrase by ear, singing it, playing it in more than one position/key, and changing one feature (rhythm, contour, ending, or space) over a progression. This is a hypothesis: the located evidence does not prove phrase-based work beats scales for this learner group. The rationale is that the practice goal itself should include phrase construction and intent, while ear/improvisation pedagogy studies report integration as promising but not causally established. [^7][^8]
+
+**Strongest counterargument:** Scale and technical exercises may address a real bottleneck—fingering fluency or access to chord tones—and short guided improvisation may not supply enough deliberate repetition. There is no adequate direct trial showing that phrase imitation is superior, and a small child string study found improvisation-based technique learning transferred to an unfamiliar excerpt only about as well as repertoire-based learning. [^10]
+
+**Small disproof test:** Randomize adult intermediate guitarists to equal-time (e.g., 30-minute daily, four-week) phrase-imitation/variation versus scale-and-sequence practice, with the same teacher/tutor contact and baseline skill. Before and after, use blinded raters and a preregistered rubric on a new progression, key, and backing track; include a one-week no-practice retention test. Separate performance, retention, and transfer endpoints because music-practice studies show these can yield different conclusions. [^2][^9] The phrase-based challenge is disconfirmed if it does not improve the unfamiliar-context outcome, or if scale practice does better without sacrificing retention.
+
+### Challenge 2: “The tutor should correct every obvious mistake immediately.”
+
+**Provisional alternative:** Let the player complete a short improvisation first, ask them to identify one intended phrase feature and one point to change, then reveal a concise replay-linked cue or targeted feedback. Gradually reduce unsolicited feedback as self-assessment becomes more accurate. Guitar evidence shows video-supported self-evaluation can alter practice comments and strategy selection, not that it improves improvisation performance. [^4]
+
+**Strongest counterargument:** Delayed or sparse feedback may allow an incorrect motor or harmonic pattern to be rehearsed; beginners or learners who cannot identify their own errors may need immediate scaffolding. The music self-regulation synthesis supports structured instructional support, not learner autonomy in every circumstance. [^6]
+
+**Small disproof test:** Compare immediate correction with learner-first, on-demand feedback in a randomized crossover study using unfamiliar backing tracks. Measure blind-rated phrase intent/variety and harmonic/rhythmic errors immediately, after one week without tutor feedback, and on a novel progression; also score error-detection calibration. Include an objective delayed transfer outcome because the guitar video-feedback study measured comment/self-evaluation changes rather than performance gains. [^4] The alternative is disconfirmed if learner-first feedback yields worse delayed transfer or substantially more persistent errors.
+
+## Design conclusion
+
+A defensible AI-tutor prototype should not hard-code one presumed bottleneck or equate smooth practice performance with learning. Music studies show that immediate practice performance, next-day retention, transfer, and self-evaluation behavior can diverge: for example, variable practice improved some pianist outcomes while a percussion study found no later advantage, and the guitar video-feedback study measured changed self-evaluation rather than performance gains. [^2][^9][^4] The design should diagnose which part of the musical task is failing, alternate focused work with musical application, connect listening to singing and instrument execution where useful, and measure delayed performance on unfamiliar material; evidence supports testing these principles, not claiming proven lasting improvement in this target population.
+
+
+[^1]: How et al., 2021. A PRISMA review of research on music practice. Music & Science.
+
+[^2]: Bangert et al., 2013. When less of the same is more: Benefits of variability of practice in pianists.
+
+[^3]: Carter & Grahn, 2016. Optimizing Music Learning: Exploring How Blocked and Interleaved Practice Schedules Affect Advanced Performance. Frontiers in Psychology.
+
+[^4]: Boucher et al., 2019. Video feedback and the self-evaluation of college-level guitarists during individual practice. Psychology of Music.
+
+[^5]: Hartz & Bauer, 2016. The Effect of Ear Playing Instruction on Adult Amateur Wind Instrumentalists' Musical Self-Efficacy: An Exploratory Study. Contributions to Music Education.
+
+[^6]: Wang et al., 2025. From Practice to Reflection: A Systematic Review of Mechanisms Driving Metacognition and SRL in Music. Journal of Intelligence.
+
+[^7]: Russell, 2017. A cappella ear training: Bringing theory and aural skills together via singing in a jazz program environment. Australian journal of music education.
+
+[^8]: Hartz & Bauer, 2016. The Effect of Ear Playing Instruction on Adult Amateur Wind Instrumentalists' Musical Self-Efficacy: An Exploratory Study. Contributions to Music Education.
+
+[^9]: Rose, 2006. The effects of contextual interference on the acquisition, retention, and transfer of a music motor skill among university musicians.
+
+[^10]: Minnich, 2014. THE EFFECT OF IMPROVISATION ON THE TRANSFER OF TECHNIQUE - Sally Williams Minnich.
