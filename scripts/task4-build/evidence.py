@@ -342,3 +342,18 @@ e('lappe2008','Two weeks of learning to play a sequence enhanced auditory-cortex
 e('guadagnoli2001','With 100% knowledge of results, learners who first estimated their own error retained best, while those who did not estimate retained worst; 20% KR fell in between.',EF,
   'The group that received 100% KR and was required to error estimate during acquisition performed the best during retention. The 2 groups that received 20% KR performed less well. Finally, the group that received 100% KR and was not required to error estimate during acquisition performed the poorest during retention.','Abstract',('abs','guadagnoli2001'),X,'learning-evidence',
   pop='adults',instr='none (force-production task)',lvl='novice',n='64',design='2x2 factorial',comp='20% KR; no error estimation',outcome='no-KR retention',notes='Simple lab task. Key moderator for POV B: 100% feedback helped only when learners self-estimated first. Introduced by a pressure-test model; the abstract was verified before use.')
+
+# 2026-10-08 scope change: learner group broadened from "adult intermediate guitarists, ~2 h/day for 2 years"
+# to "intermediate guitarists of any age (self-taught or lesson-taught) on a multi-year plateau".
+# "direct" now means guitar-specific evidence at intermediate-or-higher level (any age), or guitar-specific
+# feasibility/health evidence. Rows that were direct only because they concerned adults are re-tagged adjacent.
+RETAG={
+ 'ritchie2018':'adult BEGINNER string players (not guitar, not intermediate)',
+ 'leahy2021':'adult instrumentalists of mixed instruments (not guitar-specific)',
+ 'hartz2016':'adult amateur WIND players (not guitar)',
+ 'uwo_video_guitar':'guitar but BEGINNERS',
+}
+for _e in E:
+    if _e['source_id'] in RETAG and _e['relevance_to_learner_group']==D:
+        _e['relevance_to_learner_group']=A
+        _e['notes']=(_e['notes']+' ' if _e['notes'] else '')+'Re-tagged direct→adjacent on 2026-10-08 after the learner group was broadened (no longer adult-specific): '+RETAG[_e['source_id']]+'.'

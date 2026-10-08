@@ -1,18 +1,19 @@
 # Next test: an 8-week pilot of both POVs
 
-**Headline:** an 8-week pilot with 12–16 plateaued adult intermediate guitarists. Each learner's practice items are randomly split two ways: *ear-gated vs conventionally drilled* (POV A) and *feedback after every take with self-estimate first vs faded feedback* (POV B). Outcomes are no-feedback retention, transfer and blind-rated improvisation at week 8. Rater and AI reliability are checked before any score is trusted.
+**Headline:** an 8-week pilot with 12–16 plateaued intermediate guitarists aged 18 or over. Each learner's practice items are randomly split two ways: *ear-gated vs conventionally drilled* (POV A) and *feedback after every take with self-estimate first vs faded feedback* (POV B). Outcomes are no-feedback retention, transfer and blind-rated improvisation at week 8. Rater and AI reliability are checked before any score is trusted.
 
 This is a feasibility and effect-size pilot, not a confirmatory trial. It tells us whether a bigger study is worth running, which parts of each POV to drop, and whether the measurements can be trusted.
 
 ## Who
 - **n = 12 completers** (recruit 16, allowing for about 25% dropout).
 - **Eligibility:**
-  - adults aged 25 or over;
-  - at least 3 years playing;
-  - can play the major and minor pentatonic in at least 2 positions and basic open and barre chords;
-  - self-report no clear progress for 6 months or more;
-  - can commit at least 45 min/day to study material and record on a phone.
-- **Population compromise:** the 2 h/day target group is rare, so actual practice minutes are logged and analysed as a covariate.
+  - **18 or over (pilot choice).** Teens are in the target group, but including 13–17-year-olds means parental consent, assent and safeguarding procedures. That is too heavy for a 16-person pilot. If the pilot works, a follow-up should add a teen arm with parental consent.
+  - Self-taught or lesson-taught; teaching history is recorded.
+  - At least 3 years playing.
+  - Can play the major and minor pentatonic in at least 2 positions and basic open and barre chords; a teacher confirms intermediate level from the baseline video.
+  - **Plateau screen:** self-reports no clear progress for 2 years or more despite continued practice (a multi-year plateau), and names what they are stuck on.
+  - **Determination:** commits to at least 30–45 min/day, 6 days a week, for 8 weeks, and records on a phone.
+- **Practice time varies:** Andre, the motivating user, does about 2 h/day; most recruits will do less. Practice minutes are logged and analysed as a covariate.
 
 ## Design (within-learner, item-level, 2 × 2)
 - **Items.** Each learner gets 8 practice items, matched for difficulty by a teacher before randomisation: short licks or phrases, chord-quality sets (for example maj7 / dom7 / m7) and progressions. Items are randomly assigned, 2 per cell, to:

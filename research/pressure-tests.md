@@ -4,6 +4,8 @@
 
 > Evaluate this education POV: [insert POV]. Where is it weak or unlikely to work? Identify the strongest objection, the specific constraint behind it, and the evidence needed to resolve it. Give an honest assessment; do not agree or disagree just because I asked.
 
+**Scope note (2026-10-08).** These runs used the earlier learner context ("adult intermediate guitarists who practise about 2 hours a day for 2 years"). The learner group has since been broadened to intermediate guitarists of any age on a multi-year plateau. The strongest objections (hearing and playing co-develop; the gate conflates hearing with fretboard mapping; outsourced self-evaluation; the streetlight problem) do not depend on age or practice hours. Points about two-year adherence and adult dropout apply to the motivating user and may differ for teens. The raw outputs are left unchanged as a historical record.
+
 **How it was run**
 - Script: `scripts/pressure-test.py`, via OpenRouter on hdx-lab. The key was read from `~/.config/agentforge/openrouter_api_key` at run time and never printed or saved. Settings: one user message, `max_tokens` 8000, default temperature.
 - The POV text inserted for each run is in `research/pressure-tests/inputs/`. The raw output for each run is saved verbatim in `research/pressure-tests/`: `.md` holds the prompt and response, `.json` the full API response including usage.

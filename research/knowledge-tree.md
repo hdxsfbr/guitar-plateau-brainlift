@@ -1,22 +1,23 @@
-# Knowledge tree — adaptive musicianship tutor for plateaued adult intermediate guitarists
+# Knowledge tree — adaptive musicianship tutor for plateaued intermediate guitarists
 
 Built 2026-10-07 (CT) from `research/evidence.csv` (97 claim rows, E001–E097; E093–E097 and corrections to E024/E064 added 2026-10-08) and `research/source-register.csv` (140 sources). Every finding cites evidence IDs; the quote, location and verification status for each ID are in `evidence.csv`.
 
 **How to read this**
 - **Finding** = empirical result reported by a source. **Theory** = a framework or mechanism claim. **Expert advice** = a recommendation. **Inference** = my reasoning from the findings (marked *Inference*). **Product hypothesis** = a testable bet for the tutor (marked *Product hypothesis*). Product hypotheses are not evidence.
-- Relevance tags come from `relevance_to_learner_group`: **direct** = adult and/or guitar and intermediate-level evidence; **adjacent** = music but a different population, instrument or level; **extrapolated** = non-music tasks, beginners in lab tasks, children, or very short interventions.
-- **Bottom line on directness.** Only 12 of 97 rows are direct. No controlled study tests adaptive versus fixed instruction for adult intermediate guitarists over months. Most of the decision rests on adjacent and extrapolated evidence.
+- Relevance tags come from `relevance_to_learner_group`: **direct** = guitar-specific evidence at intermediate level or above (any age), or guitar-specific feasibility/health evidence; **adjacent** = music but a different population, instrument or level; **extrapolated** = non-music tasks, beginners in lab tasks, children, or very short interventions.
+- **Scope (updated 2026-10-08).** The learner group is intermediate guitarists of any age, self-taught or lesson-taught, who are stuck on a multi-year plateau and determined to keep improving. Andre (an adult practising about 2 h/day) is the motivating real user, not the requirement. Rows that were *direct* only because they studied adults were re-tagged *adjacent*: E039, E040, E050, E069.
+- **Bottom line on directness.** Only 8 of 97 rows are direct, and none of those tests a teaching method on plateaued players. No controlled study tests adaptive versus fixed instruction for intermediate guitarists over months. Most of the decision rests on adjacent and extrapolated evidence.
 
 ---
 
-## 1. Problem — what a plateau is and why adults stall
+## 1. Problem — what a plateau is and why intermediates stall
 
 **Findings**
 - **Practice matters, but by itself it explains a minority of variance in music skill.** Estimates range from 21% (`E043`, Macnamara 2014) to 29.9% of reliable variance after correction (`E044`, Hambrick 2020). A corrected correlation of r = .61 in music samples (`E042`, Platz 2014) is the high end. The theory's originator argues for 29% raw and 61% corrected under stricter criteria (`E045`); this is contested.
 - **Twin studies challenge a simple "more hours → more skill" model.** Within identical-twin pairs, the twin who practised more did not have better music *perception* ability (`E047`). Heritability of auditory discrimination rose with practice hours (`E048`). Both are *extrapolated*: the outcomes are perceptual tests, not guitar performance.
 - **Direct plateau-trajectory data are close to absent.** The one source found describes logarithmic progress with plateau phases in vocal jazz students (`E049`), and its method is unclear (caution). For adult amateurs specifically, the literature itself says this is under-studied (`E050`).
-- **Dropout and stall drivers in adults are mostly external or experiential.** Lapsed musicians name access and opportunity, activity experience, obligations and "difficulty with practicing" (`E038`, *adjacent*). In youth music schools, autonomous motivation predicts staying and controlled motivation predicts dropping out (`E041`, *extrapolated*).
-- **Physical risk is real for guitarists at 2 h/day.**
+- **Dropout and stall drivers (lapsed adult musicians) are mostly external or experiential.** Lapsed musicians name access and opportunity, activity experience, obligations and "difficulty with practicing" (`E038`, *adjacent*). In youth music schools, autonomous motivation predicts staying and controlled motivation predicts dropping out (`E041`, *extrapolated*).
+- **Physical risk is real for guitarists who practise a lot.**
   - In a preprint meta-analysis, pooled prevalence of any playing-related problem was 51.8%, and of clinically diagnosed disorders 42.2% (`E051`, *direct*, cross-sectional).
   - A Portuguese survey found a lifetime injury rate of 53.3% (`E056`).
   - Causal evidence on risk factors is weak (`E052`), and nobody has tested playing position for classical guitar (`E054`).
@@ -35,10 +36,10 @@ Built 2026-10-07 (CT) from `research/evidence.csv` (97 claim rows, E001–E097; 
 - **Definition matters.** By Ericsson's criteria, practice without "individualized guidance by a qualified teacher" is *purposeful*, not *deliberate*, practice (`E046`, theory). Whether software can meet the fifth criterion is untested (*Inference*).
 - **Conventional pedagogy advice from motor learning** is to give feedback sparingly, vary task order, use an external focus and let learners control practice (`E030`, expert advice, Wulf & Mornell 2008). Section 3 shows that several of these rules have since weakened.
 - **Expert jazz guitarists** describe their skill in terms of chunks, schemas and templates that depend on context (`E071`, qualitative). Elite vs semi-elite improvisers differed in the *quality* of individual practice and in jam/network activity (`E070`, retrospective).
-- **Adults want adjustable directiveness.** Adult instrumentalists welcomed more teacher direction when stuck technically or in an unfamiliar style, and advanced adults self-directed more (`E040`, *direct*, n=6).
+- **Learners want adjustable directiveness (adult evidence).** Adult instrumentalists welcomed more teacher direction when stuck technically or in an unfamiliar style, and advanced adults self-directed more (`E040`, *adjacent*, n=6).
 - **The theory-first default.** A jazz-education scholar describes formal jazz education's main tendency as theory-based, chord–scale pedagogy. Interviewed professionals attribute this partly to it being easy to teach and measure (`E093`, `E094`; expert opinion, added 2026-10-08).
 - **Pedagogy content debates** (tonic-based solmization `E072`; Kodály modality order `E073`; chord-scale vs transcription `E076`) are argued from theory or teacher perception, not outcome data.
-- **Research landscape.** Music-practice research is mostly quantitative and centred on deliberate practice, strategies and SRL (`E078`). It is overwhelmingly about students rather than adult amateurs.
+- **Research landscape.** Music-practice research is mostly quantitative and centred on deliberate practice, strategies and SRL (`E078`). It is overwhelmingly about students rather than plateaued amateurs.
 
 ---
 
@@ -69,7 +70,7 @@ Built 2026-10-07 (CT) from `research/evidence.csv` (97 claim rows, E001–E097; 
 ### 3c. Self-regulated learning
 - Self-regulation correlates only weakly with music outcomes, and explicit SRL *instruction* is the strongest correlate (`E035`).
 - Intervention reviews are mixed but mostly positive or null (`E036`). One reports a medium pooled effect, but only 7 studies were meta-analysed and the evidence is weaker outside secondary and university settings (`E037`).
-- For adult beginners, an SRL worksheet changed behaviour but not self-efficacy (`E039`, *direct*, pilot).
+- For adult beginners, an SRL worksheet changed behaviour but not self-efficacy (`E039`, *adjacent*, pilot).
 
 ---
 
@@ -101,7 +102,7 @@ Built 2026-10-07 (CT) from `research/evidence.csv` (97 claim rows, E001–E097; 
 
 ---
 
-## 5. Feasibility — can a tutor do this for an adult at 2 h/day for 2 years?
+## 5. Feasibility — can a tutor do this for a determined intermediate over months to years?
 
 **Findings**
 - **Transcription technology is good for guitar.**
@@ -113,7 +114,7 @@ Built 2026-10-07 (CT) from `research/evidence.csv` (97 claim rows, E001–E097; 
 - **Adherence and health.**
   - Self-paced mastery can reduce completion (`E006`).
   - Breaks are recommended (5 min per 25 min, `E053`, expert advice), and strength-training prevention shows benefit in professionals (`E055`).
-  - Adult dropout reasons are largely outside the tutor's control (`E038`).
+  - Dropout reasons among lapsed adult musicians are largely outside a tutor's control (`E038`).
 - **Psychological effects of AI tools.** Assessment-type AI strengthens ability beliefs, and adaptive AI supports engagement (`E088`). The research base is young and university-centred (`E089`). Haptic or virtual guitars improve realism only (`E091`). Early computer courseware drew positive attitudes (`E079`).
 
 ---
@@ -181,8 +182,8 @@ Built 2026-10-07 (CT) from `research/evidence.csv` (97 claim rows, E001–E097; 
 | E036 | learning-evidence | adjacent | empirical finding | [lubert2024](https://doi.org/10.1177/10298649241290448) | yes |
 | E037 | learning-evidence | adjacent | empirical finding | [wang2025](https://www.mdpi.com/2079-3200/13/12/162) | yes |
 | E038 | problem | adjacent | empirical finding | [krause2019](https://researchonline.jcu.edu.au/62727/15/JCU_Krause%2CKirby%2CDieckmann%26Davidson2019_reengage_PrePrint.pdf) | yes |
-| E039 | feasibility | direct | empirical finding | [ritchie2018](http://redfame.com/journal/index.php/jets/article/view/2978) | yes |
-| E040 | current-practice | direct | empirical finding | [leahy2021](https://doi.org/10.1177/0255761421991596) | yes |
+| E039 | feasibility | adjacent | empirical finding | [ritchie2018](http://redfame.com/journal/index.php/jets/article/view/2978) | yes |
+| E040 | current-practice | adjacent | empirical finding | [leahy2021](https://doi.org/10.1177/0255761421991596) | yes |
 | E041 | problem | extrapolated | empirical finding | [wieser2024](https://doi.org/10.3389/fpsyg.2024.1378843) | yes |
 | E042 | problem | adjacent | empirical finding | [platz2014](https://doi.org/10.3389/fpsyg.2014.00646) | yes |
 | E043 | problem | adjacent | empirical finding | [macnamara2014](https://doi.org/10.1177/0956797614535810) | yes |
@@ -192,7 +193,7 @@ Built 2026-10-07 (CT) from `research/evidence.csv` (97 claim rows, E001–E097; 
 | E047 | problem | extrapolated | empirical finding | [mosing2014](https://doi.org/10.1177/0956797614541990) | yes |
 | E048 | problem | extrapolated | empirical finding | [mosing2024](https://doi.org/10.3390/jintelligence12090087) | yes |
 | E049 | problem | adjacent | empirical finding | [musicahodie_jazz](https://doi.org/10.5216/mh.v25.82965) | yes |
-| E050 | problem | direct | theory | [hartz2016](https://www.semanticscholar.org/paper/e2edb968e003cdc2ae89fd1199fb572c) | yes |
+| E050 | problem | adjacent | theory | [hartz2016](https://www.semanticscholar.org/paper/e2edb968e003cdc2ae89fd1199fb572c) | yes |
 | E051 | problem | direct | empirical finding | [castillo2025](https://www.medrxiv.org/content/10.1101/2025.10.08.25337619) | near |
 | E052 | problem | adjacent | empirical finding | [rotter2020](https://pmc.ncbi.nlm.nih.gov/articles/PMC7007903/) | yes |
 | E053 | feasibility | adjacent | expert advice | [chan2014](https://pmc.ncbi.nlm.nih.gov/articles/PMC4086404/) | yes |
@@ -211,7 +212,7 @@ Built 2026-10-07 (CT) from `research/evidence.csv` (97 claim rows, E001–E097; 
 | E066 | alternatives | adjacent | empirical finding | [laughlin2001](https://digital.library.unt.edu/ark:/67531/metadc2886/) | yes |
 | E067 | measurement | adjacent | empirical finding | [palmer2016](https://doi.org/10.1177/0022429416664897) | yes |
 | E068 | learning-evidence | direct | empirical finding | [boucher2019](https://doi.org/10.1177/0305735619842374) | yes |
-| E069 | learning-evidence | direct | empirical finding | [uwo_video_guitar](https://ir.lib.uwo.ca/etd/4733) | yes |
+| E069 | learning-evidence | adjacent | empirical finding | [uwo_video_guitar](https://ir.lib.uwo.ca/etd/4733) | yes |
 | E070 | current-practice | adjacent | empirical finding | [wopereis2015](https://www.semanticscholar.org/paper/f687718b5d8e797df29ec56de9c34ca1) | yes |
 | E071 | current-practice | adjacent | theory | [solstad2020](https://doi.org/10.4324/9780429022692) | yes |
 | E072 | current-practice | adjacent | theory | [karpinski2021](https://mtosmt.org/issues/mto.21.27.2/mto.21.27.2.karpinski.html) | yes |

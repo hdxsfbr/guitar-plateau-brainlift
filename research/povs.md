@@ -2,7 +2,9 @@
 
 Andre chose these two POVs on 2026-10-08, replacing the earlier, tamer candidates in `pov-candidates.md`. Evidence IDs refer to `research/evidence.csv`, and every cited ID was re-read against its row and quote.
 
-**Honesty note.** Only 12 of 97 evidence rows are *direct*, meaning about adult and/or guitar learners at intermediate level. Most of what follows is *adjacent* (music, but another population or instrument) or *extrapolated* (lab motor tasks, non-music, novices, single sessions). Both POVs are bets that the evidence makes reasonable. Neither is a proven result for this learner group. `research/pressure-tests.md` records how each POV changed under pressure testing: v1 → v2 → v3 (final). The text below is v3.
+**Learner group (updated 2026-10-08).** Intermediate guitarists of any age, self-taught or lesson-taught, who are stuck on a multi-year plateau and determined to keep improving. Andre (an adult practising about 2 h/day) is the motivating real user, not the requirement. The POVs below did not change with this broadening. The pressure tests were run with the earlier "adult, 2 h/day for 2 years" context (see `pressure-tests.md`).
+
+**Honesty note.** Only 8 of 97 evidence rows are *direct*, meaning guitar-specific evidence at intermediate level or above (any age), or guitar-specific feasibility. Four rows that were direct only because they studied adults are now *adjacent*. Most of what follows is *adjacent* (music, but another population or instrument) or *extrapolated* (lab motor tasks, non-music, novices, single sessions). Both POVs are bets that the evidence makes reasonable. Neither is a proven result for this learner group. `research/pressure-tests.md` records how each POV changed under pressure testing: v1 → v2 → v3 (final). The text below is v3.
 
 ---
 
@@ -51,7 +53,7 @@ Andre chose these two POVs on 2026-10-08, replacing the earlier, tamer candidate
 | E050 Hartz 2016 | Little research exists on how adult amateurs respond to ear-playing instruction | Gap statement. The study's own results were not captured. |
 
 **Bottom line on evidence:**
-- Direct evidence for POV A in adult intermediate guitarists: **none found**.
+- Direct evidence for POV A in intermediate guitarists (any age): **none found**.
 - Adjacent evidence (small, short, school or college jazz studies) consistently favours ear- or practice-based approaches over theory- or notation-first ones.
 - Nothing in the register measures how common hearing bottlenecks are, which is why the claim is framed as a bet with a screen.
 
@@ -116,7 +118,7 @@ Andre chose these two POVs on 2026-10-08, replacing the earlier, tamer candidate
 | E097 Guadagnoli & Kohl 2001 | 100% feedback plus self-estimation gave the best retention; 100% without estimation gave the worst | Simple force task, N = 64. *Extrapolated*, but it targets the exact dependency mechanism. |
 | E028 McKay et al. 2022 | The self-controlled feedback benefit shrinks to g = .107 after bias correction | Supports default feedback over feedback "on request". Lab tasks. |
 | E032, E033 Blanco 2021 | Real-time visual feedback for violin novices improved bowing movement but hurt sound *while on*; 55.2% "cannot play while watching" | Novices, a single session, kinematic feedback. **In the same-session no-feedback phase, the feedback group's sound was *better*.** So the case against live feedback rests on attention and in-practice sound cost, not on shown retention harm. |
-| E068, E069 | Video self-review changed college guitarists' self-evaluation; weekly video recording helped adult beginner classical guitarists (p = .037) | The only *direct* rows. Small samples or a thesis, n not captured for E069. This is recording plus review, not AI feedback. |
+| E068, E069 | Video self-review changed college guitarists' self-evaluation; weekly video recording helped adult beginner classical guitarists (p = .037) | E068 is the only *direct* row here (college-level guitarists, n = 16). E069 is *adjacent* (beginners; thesis; n not captured). Both are recording plus review, not AI feedback. |
 
 **The reliability constraint (stated honestly)**
 - Human raters are noisy:
